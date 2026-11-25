@@ -22,6 +22,8 @@ playwright-login-assignment/
 │   └── test-fixtures.ts       # Custom fixture that creates LoginPage and opens the login page
 ├── pages/
 │   └── LoginPage.ts           # Page Object Model with locators and login actions
+├── test-cases/
+│   └── login-test-cases.xlsx  # List of functional test cases
 ├── test-data/
 │   └── credentials.ts         # Valid and invalid test credentials
 ├── test-evidence/
